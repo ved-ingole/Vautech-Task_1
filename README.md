@@ -2,7 +2,6 @@
 ---
 
 Intern: Ved Ingole
-
 Domain: Machine Learning
 Company: VAUTECH IT SOLUTIONS
 Task: Understanding ML Algorithms & Use-Case Mapping
