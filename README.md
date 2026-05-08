@@ -14,13 +14,13 @@ This task focuses on understanding the fundamentals of Machine Learning and mapp
 Machine Learning is widely used across industries to solve prediction, classification, recommendation, and pattern discovery problems. This task focuses on understanding how different Machine Learning approaches work and where they are applied in real-world scenarios.
 
 The project mainly explores:
-Supervised Learning
-Unsupervised Learning
-Classification
-Regression
-Clustering
-Algorithm Selection Reasoning
-Real-world ML Applications
+- Supervised Learning
+- Unsupervised Learning
+- Classification
+- Regression
+- Clustering
+- Algorithm Selection Reasoning
+- Real-world ML Applications
 
 **🎯 Objectives**
 ---
@@ -37,13 +37,14 @@ Build foundational knowledge of Machine Learning concepts
 Used when data contains input and correct output labels.
 
 Includes:
-Classification
-Regression
+- Classification
+- Regression
+
 Examples:
-Spam Detection
-House Price Prediction
-Disease Prediction
-Sales Forecasting
+- Spam Detection
+- House Price Prediction
+- Disease Prediction
+- Sales Forecasting
 
 2. Unsupervised Learning
 Used when data is unlabeled and patterns need to be discovered.
@@ -51,11 +52,12 @@ Used when data is unlabeled and patterns need to be discovered.
 Includes:
 Clustering
 Association
+
 Examples:
-Customer Segmentation
-Product Recommendation
-Market Segmentation
-User Behavior Analysis
+- Customer Segmentation
+- Product Recommendation
+- Market Segmentation
+- User Behavior Analysis
 
 **📊 Machine Learning Concepts Covered**
 ---
@@ -63,49 +65,49 @@ Classification
 Used when the output is categorical.
 
 Examples:
-Spam / Not Spam
-Fraud / Not Fraud
-Approve / Reject
+- Spam / Not Spam
+- Fraud / Not Fraud
+- Approve / Reject
 
 Regression
 Used when the output is numerical.
 
 Examples:
-Price Prediction
-Sales Prediction
-Temperature Prediction
+- Price Prediction
+- Sales Prediction
+- Temperature Prediction
 
 Clustering
 Used for grouping similar data points together.
 
 Examples:
-Customer Segmentation
-Product Grouping
-Market Analysis
+- Customer Segmentation
+- Product Grouping
+- Market Analysis
 
 **⚙️ Algorithms Studied**
 ---
-Linear Regression
-Logistic Regression
-Decision Tree
-Random Forest
-K-Means Clustering
-Naive Bayes
-Support Vector Machine (SVM)
-K-Nearest Neighbors (KNN)
-Hierarchical Clustering
-PCA (Principal Component Analysis)
+- Linear Regression
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- K-Means Clustering
+- Naive Bayes
+- Support Vector Machine (SVM)
+- K-Nearest Neighbors (KNN)
+- Hierarchical Clustering
+- PCA (Principal Component Analysis)
 
 **📈 Real-World Applications**
 ---
-Email Spam Detection
-Fraud Detection
-Recommendation Systems
-Customer Segmentation
-Loan Approval Systems
-Face Recognition
-Market Analysis
-Sales Forecasting
+- Email Spam Detection
+- Fraud Detection
+- Recommendation Systems
+- Customer Segmentation
+- Loan Approval Systems
+- Face Recognition
+- Market Analysis
+- Sales Forecasting
 
 **📖 Learning Outcomes**
 ---
