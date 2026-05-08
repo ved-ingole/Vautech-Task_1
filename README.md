@@ -2,8 +2,11 @@
 ---
 
 Intern: Ved Ingole
+
 Domain: Machine Learning
+
 Company: VAUTECH IT SOLUTIONS
+
 Task: Understanding ML Algorithms & Use-Case Mapping
 
 This task focuses on understanding the fundamentals of Machine Learning and mapping different Machine Learning algorithms to real-world use cases. The project explains how various ML techniques are selected based on problem type, data, and expected output.
