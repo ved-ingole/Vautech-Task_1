@@ -1,4 +1,4 @@
-**# VAUTECH IT SOLUTIONS – TASK 1**
+**#VAUTECH IT SOLUTIONS – TASK 1**
 
 Intern: Ved Ingole
 Domain: Machine Learning
