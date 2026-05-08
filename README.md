@@ -9,11 +9,11 @@ Task: Understanding ML Algorithms & Use-Case Mapping
 This task focuses on understanding the fundamentals of Machine Learning and mapping different Machine Learning algorithms to real-world use cases. The project explains how various ML techniques are selected based on problem type, data, and expected output.
 
 **📌 Project Overview**
+---
 
 Machine Learning is widely used across industries to solve prediction, classification, recommendation, and pattern discovery problems. This task focuses on understanding how different Machine Learning approaches work and where they are applied in real-world scenarios.
 
 The project mainly explores:
-
 Supervised Learning
 Unsupervised Learning
 Classification
@@ -23,6 +23,7 @@ Algorithm Selection Reasoning
 Real-world ML Applications
 
 **🎯 Objectives**
+---
 Understand the basics of Machine Learning
 Learn the difference between Supervised and Unsupervised Learning
 Identify real-world use cases of ML algorithms
@@ -31,7 +32,7 @@ Learn how to select suitable algorithms for different problems
 Build foundational knowledge of Machine Learning concepts
 
 **🤖 Types of Machine Learning Covered**
-
+---
 1. Supervised Learning
 Used when data contains input and correct output labels.
 
@@ -57,8 +58,8 @@ Market Segmentation
 User Behavior Analysis
 
 **📊 Machine Learning Concepts Covered**
+---
 Classification
-
 Used when the output is categorical.
 
 Examples:
@@ -83,6 +84,7 @@ Product Grouping
 Market Analysis
 
 **⚙️ Algorithms Studied**
+---
 Linear Regression
 Logistic Regression
 Decision Tree
@@ -95,6 +97,7 @@ Hierarchical Clustering
 PCA (Principal Component Analysis)
 
 **📈 Real-World Applications**
+---
 Email Spam Detection
 Fraud Detection
 Recommendation Systems
@@ -105,6 +108,7 @@ Market Analysis
 Sales Forecasting
 
 **📖 Learning Outcomes**
+---
 Understanding ML problem types
 Mapping algorithms to real-world scenarios
 Understanding prediction and pattern discovery
