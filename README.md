@@ -1,5 +1,4 @@
-# Vautech-Task_1
-**VAUTECH IT SOLUTIONS – TASK 1**
+**# VAUTECH IT SOLUTIONS – TASK 1**
 
 Intern: Ved Ingole
 Domain: Machine Learning
@@ -8,7 +7,7 @@ Task: Understanding ML Algorithms & Use-Case Mapping
 
 This task focuses on understanding the fundamentals of Machine Learning and mapping different Machine Learning algorithms to real-world use cases. The project explains how various ML techniques are selected based on problem type, data, and expected output.
 
-**📌 Project Overview**
+**# 📌 Project Overview**
 
 Machine Learning is widely used across industries to solve prediction, classification, recommendation, and pattern discovery problems. This task focuses on understanding how different Machine Learning approaches work and where they are applied in real-world scenarios.
 
@@ -22,7 +21,7 @@ Clustering
 Algorithm Selection Reasoning
 Real-world ML Applications
 
-**🎯 Objectives**
+**# 🎯 Objectives**
 Understand the basics of Machine Learning
 Learn the difference between Supervised and Unsupervised Learning
 Identify real-world use cases of ML algorithms
@@ -30,7 +29,7 @@ Understand Classification, Regression, and Clustering
 Learn how to select suitable algorithms for different problems
 Build foundational knowledge of Machine Learning concepts
 
-**🤖 Types of Machine Learning Covered**
+**# 🤖 Types of Machine Learning Covered**
 
 1. Supervised Learning
 Used when data contains input and correct output labels.
@@ -56,7 +55,7 @@ Product Recommendation
 Market Segmentation
 User Behavior Analysis
 
-**📊 Machine Learning Concepts Covered**
+**# 📊 Machine Learning Concepts Covered**
 Classification
 
 Used when the output is categorical.
@@ -82,7 +81,7 @@ Customer Segmentation
 Product Grouping
 Market Analysis
 
-**⚙️ Algorithms Studied**
+**# ⚙️ Algorithms Studied**
 Linear Regression
 Logistic Regression
 Decision Tree
@@ -94,7 +93,7 @@ K-Nearest Neighbors (KNN)
 Hierarchical Clustering
 PCA (Principal Component Analysis)
 
-**📈 Real-World Applications**
+**# 📈 Real-World Applications**
 Email Spam Detection
 Fraud Detection
 Recommendation Systems
@@ -104,7 +103,7 @@ Face Recognition
 Market Analysis
 Sales Forecasting
 
-**📖 Learning Outcomes**
+**# 📖 Learning Outcomes**
 Understanding ML problem types
 Mapping algorithms to real-world scenarios
 Understanding prediction and pattern discovery
