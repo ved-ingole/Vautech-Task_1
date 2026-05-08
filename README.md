@@ -66,16 +66,16 @@ Examples:
 Spam / Not Spam
 Fraud / Not Fraud
 Approve / Reject
-Regression
 
+Regression
 Used when the output is numerical.
 
 Examples:
 Price Prediction
 Sales Prediction
 Temperature Prediction
-Clustering
 
+Clustering
 Used for grouping similar data points together.
 
 Examples:
